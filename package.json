@@ -1,0 +1,26 @@
+{
+  "name": "cush-plugin-postcss",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "description": "CSS plugins for cush",
+  "repository": "cushJS/cush-plugin-postcss",
+  "scripts": {
+    "build": "coffee-build src -o lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "dependencies": {
+    "lodge": "^0.0.9",
+    "postcss": "^6.0.22"
+  },
+  "devDependencies": {
+    "coffeelint": "^2.1.0",
+    "coffeescript": "^2.3.0",
+    "wch-coffee": "*"
+  },
+  "peerDependencies": {
+    "cush": "^0.2.0"
+  }
+}
