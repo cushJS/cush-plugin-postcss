@@ -1,4 +1,4 @@
-# cush-plugin-postcss v0.0.1
+# cush-plugin-postcss v0.1.0
 
 Use [postcss][1] to transform your CSS with plugins.
 
