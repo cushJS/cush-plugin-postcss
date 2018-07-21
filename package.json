@@ -1,6 +1,6 @@
 {
   "name": "cush-plugin-postcss",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "main": "lib/index.js",
   "license": "MIT",
   "description": "CSS plugins for cush",
